@@ -1,15 +1,13 @@
-# Prots
-CHASSIS_MOTOR_LA_PORT 2
-CHASSIS_MOTOR_LB_PORT 3
-CHASSIS_MOTOR_RA_PORT 9
-CHASSIS_MOTOR_RB_PORT 8
+# This is the repo used to test your debug ability
 
-SENSOR_GPS_BACK_PORT 1(not yet)
-SENSOR_GPS_FRONT_PORT 20(not yet)
+# You should:
 
-INTAKE_MOTOR_PORT 7
-FLYWHEEL_MOTOR_PORT 6
-INDEX_MOTOR_PORT 10
-ROLLER_MOTOR_PORT 4(not yet)
+1. Fork this repo to your own github workspace.
+2. Finish the Problem 1 - Problem 10. Each problem is a separate branch under this repo.
 
-GAS_GPIO_PORT A
+# How to finish the problem
+
+1. Go to one of the branches.
+2. Read the README file in each branch.
+3. Find the bug and answer the question in README file.
+4. Upload your answer to your own repo.
